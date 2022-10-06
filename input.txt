@@ -1,0 +1,15 @@
+#
+Maria
+40
+F
+Casado
+#
+Juan
+20
+M
+Soltero
+#
+Pedro
+30
+M
+Casado
